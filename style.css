@@ -1,0 +1,31 @@
+h1 {
+    font-family: Cursive;
+    font-size: 50px;
+}
+
+#chart {
+    text-align: center;
+    border: 1px dotted black;
+    background-color: grey;
+}
+
+.bar-block {
+    background-color: pink;
+    padding: 5px 5px 5px 5px;
+    margin: 2px 2px 2px 2px;
+    text-align: right;
+    color: white;
+}
+
+#chart-title {
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+.note {
+    background-color: pink;
+    display: inline-block;
+    height: 10px;
+    width: 10px;
+    margin: 5px 2px 2px 2px;
+}
